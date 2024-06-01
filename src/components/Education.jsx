@@ -13,21 +13,25 @@ export default function Education() {
     const educations = [
         {
           id: 1,
-          title: "Bachelor Degree",
-          duration: "2020 - Present",
-          institution: "National University of Bangladesh",
+          title: "Bachelor In Science of Cmputer Science",
+          duration: "2019 - 2024",
+          result: "Final Result Pending, 4.0 GPA last semester",
+          institution: "University Of Karchi (Affiliated)",
         },
         {
           id: 2,
-          title: "Higher Secondary Certificate",
-          duration: "2018 - 2020",
-          institution: "Noakhali Islamia Kamil Madrasah",
+          title: "Higher Secondary Certificate (Pre-Engineering)",
+          duration: "2017 - 2019",
+          result: "B Grade",
+          institution: "Govt. Degree College For Women. Karachi",
         },
         {
           id: 3,
           title: "Secondary School Certificate",
-          duration: "2008 - 2018",
-          institution: "Baitus Saif Islamia Madrasah",
+          duration: "2017",
+          result: "A-1 Grade",
+
+          institution: "SunRise Secondary School, Karachi Board",
         }
       ]
 
@@ -105,6 +109,8 @@ export default function Education() {
                             {education.title}
                           </p>
                           <p className="text-sm sm:text-base">{education.institution}</p>
+                          <p className="text-sm sm:text-base">{education.result}</p>
+
                         </div>
                       </div>
                     </div>
