@@ -7,7 +7,7 @@ const Projects = () => {
         {
             id: 1,
             name: 'Online Marketplace, Preloved Cloth Selling',
-            description: "Me and my team built an AI-Chatbot integrated Preloved Cloth selling Website on MERN technology and Google DialogHlow Framework. The users can upload ads of products they want to sell as an online selling MarketPlace. User login, signup is done by Backend APIS using Json Web Token and BcryptJs Hashing. Firebase is only used for Umages Url Generstion. Guest And User both can review any product and Real time Reiew submission is made with Real Time review Stars Updation.",
+            description: "Me and my team built an AI-Chatbot integrated Preloved Cloth selling Website on MERN technology and Google DialogHlow Framework. The users can upload ads of products they want to sell as an online selling MarketPlace. User login, signup is done by Backend APIS using Json Web Token and BcryptJs Hashing. Firebase is only used for Umages Url Generstion. ",
             tools: ['Express', 'MongoDB','ReactJS','firebase','JSON WEBTOKEN','BcryptJS Hashing','Mongoose', 'React-Bootstrap','js-cookie','axios','React-JWT',],
             role: 'Full Stack Developer',
             demo: 'https://demo-fashionbot-mern.vercel.app/',
