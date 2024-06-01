@@ -1,0 +1,74 @@
+.name-font{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+  /* --------------------------------------------------------MEDIA QUERY */
+  @media (min-width: 0px) and (max-width: 200px) {
+    .nfontsize{
+      font-size: 18px;
+    }
+    .fshit{
+      font-size: 11px;
+        }
+
+    .xtra{
+        flex-direction: column;
+        text-align: center;
+        padding-top: 10px;
+    }
+  }
+  
+  
+  @media (min-width: 201px) and (max-width: 480px) {
+    .nfontsize{
+      font-size: 18px;
+    }
+    .fshit{
+      font-size: 15px;
+        }
+
+        .xtra{
+            flex-direction: column;
+            text-align: center;
+        }
+  }
+  
+  @media (min-width: 481px) and (max-width: 768px) {
+    .nfontsize{
+      font-size: 30px;
+    }
+    .fshit{
+      font-size: 18px;
+        }
+  }
+  
+  
+  /* 769px — 1024px: Small screens, laptops. */
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .nfontsize{
+      font-size: 40px;
+    }
+    .fshit{
+      font-size: 19px;
+        }
+  
+     
+  }
+  
+  /* 1025px — 1200px: Desktops, large screens. */
+  
+  @media (min-width: 1025px)  {
+    .nfontsize{
+      font-size: 35px;
+  
+    }
+  
+    
+  }
+  
+  
+  
+  
+  
