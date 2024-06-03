@@ -14,7 +14,7 @@ export default function Skills() {
         'Typescript',
         'React',
         // 'Next JS',
-        'Tailwind',
+        // 'Tailwind',
         'MongoDB',
         // 'MySQL',
         // 'PostgreSQL',

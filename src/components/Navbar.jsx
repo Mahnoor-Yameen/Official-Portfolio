@@ -208,8 +208,8 @@ export default function Navbar() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">React Bootstrap</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Tailwind CSS</span>
-                <span className="text-gray-400">{"', '"}</span>
+                {/* <span className="text-amber-300">Tailwind CSS</span> */}
+                {/* <span className="text-gray-400">{"', '"}</span> */}
                 <span className="text-amber-300">LordIcon</span>
                 {/* <span className="text-gray-400">{"', '"}</span> */}
                 {/* <span className="text-amber-300">React Bootstrap</span> */}
