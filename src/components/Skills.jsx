@@ -11,7 +11,7 @@ export default function Skills() {
         'HTML',
         'CSS',
         'Javascript',
-        'Typescript',
+        // 'Typescript',
         'React',
         // 'Next JS',
         // 'Tailwind',
